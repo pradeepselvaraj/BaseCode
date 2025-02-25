@@ -1,4 +1,4 @@
 Welcome to Aperture Techecnologies Co
-Author : Harry
+Author : Harry and Kane
 Year: 2025
 
